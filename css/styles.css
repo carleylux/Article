@@ -24,9 +24,49 @@ img{
     width: 50%;
 }
 
-.image1{
-    vertical-align: middle;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%
+.relatedstories{
+    padding: 100px;
 }
+.imageone{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: px;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+.relatedstories2{
+    padding: 100px;
+}
+.imagetwo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 75px;
+
+    object-fit: cover;
+    object-position: center left;
+}
+
+.relatedstories {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+.relatedstories2 {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 11px;
+    font-size: 10px;
+    cursor: pointer;
+    display: inline-block;
+  }
