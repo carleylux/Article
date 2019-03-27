@@ -16,7 +16,11 @@ h6{
 
 }
 
-
+.header{
+    width: px;
+    height: px;
+    position: fixed;
+}
 
 .logo{
 width: 200px;
